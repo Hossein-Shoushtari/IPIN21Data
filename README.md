@@ -6,3 +6,6 @@ The sensor data as well as reference points (waypoints) are also available. The 
 
 This dataset can be used for indoor localization approaches such as PDR, PF and KF.
 You can read the data and run a simple PDR by: 3DPDR.py
+
+
+The paper is published: https://ieeexplore.ieee.org/document/9662636
